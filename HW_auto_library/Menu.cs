@@ -24,7 +24,7 @@ namespace HW_auto_library
                 Console.WriteLine("6. Show who reads book.");
                 Console.WriteLine("7. Search.");
                 Console.WriteLine("8. Exit Library.");
-                if (int.TryParse(Console.ReadLine(), out queryNum) && queryNum > 0 || queryNum < 7)
+                if (int.TryParse(Console.ReadLine(), out queryNum) || queryNum < 0 || queryNum > 8)
                 {
                     Console.Clear();
                     break;

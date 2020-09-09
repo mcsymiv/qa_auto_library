@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mcsymiv\\source\\repos\\HW_auto_library\\HW_auto_library\\HW_auto_library.csproj": {}
+    "C:\\Users\\mcsymiv\\Desktop\\git\\qa_library\\qa_auto_library\\HW_auto_library\\HW_auto_library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mcsymiv\\source\\repos\\HW_auto_library\\HW_auto_library\\HW_auto_library.csproj": {
+    "C:\\Users\\mcsymiv\\Desktop\\git\\qa_library\\qa_auto_library\\HW_auto_library\\HW_auto_library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mcsymiv\\source\\repos\\HW_auto_library\\HW_auto_library\\HW_auto_library.csproj",
+        "projectUniqueName": "C:\\Users\\mcsymiv\\Desktop\\git\\qa_library\\qa_auto_library\\HW_auto_library\\HW_auto_library.csproj",
         "projectName": "HW_auto_library",
-        "projectPath": "C:\\Users\\mcsymiv\\source\\repos\\HW_auto_library\\HW_auto_library\\HW_auto_library.csproj",
+        "projectPath": "C:\\Users\\mcsymiv\\Desktop\\git\\qa_library\\qa_auto_library\\HW_auto_library\\HW_auto_library.csproj",
         "packagesPath": "C:\\Users\\mcsymiv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mcsymiv\\source\\repos\\HW_auto_library\\HW_auto_library\\obj\\",
+        "outputPath": "C:\\Users\\mcsymiv\\Desktop\\git\\qa_library\\qa_auto_library\\HW_auto_library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mcsymiv\\AppData\\Roaming\\NuGet\\NuGet.Config",

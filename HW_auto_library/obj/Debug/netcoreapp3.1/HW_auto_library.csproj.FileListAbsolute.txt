@@ -11,3 +11,16 @@ C:\Users\mcsymiv\source\repos\HW_auto_library\HW_auto_library\obj\Debug\netcorea
 C:\Users\mcsymiv\source\repos\HW_auto_library\HW_auto_library\obj\Debug\netcoreapp3.1\HW_auto_library.dll
 C:\Users\mcsymiv\source\repos\HW_auto_library\HW_auto_library\obj\Debug\netcoreapp3.1\HW_auto_library.pdb
 C:\Users\mcsymiv\source\repos\HW_auto_library\HW_auto_library\obj\Debug\netcoreapp3.1\HW_auto_library.genruntimeconfig.cache
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\bin\Debug\netcoreapp3.1\HW_auto_library.exe
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\bin\Debug\netcoreapp3.1\HW_auto_library.deps.json
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\bin\Debug\netcoreapp3.1\HW_auto_library.runtimeconfig.json
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\bin\Debug\netcoreapp3.1\HW_auto_library.runtimeconfig.dev.json
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\bin\Debug\netcoreapp3.1\HW_auto_library.dll
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\bin\Debug\netcoreapp3.1\HW_auto_library.pdb
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\obj\Debug\netcoreapp3.1\HW_auto_library.csprojAssemblyReference.cache
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\obj\Debug\netcoreapp3.1\HW_auto_library.AssemblyInfoInputs.cache
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\obj\Debug\netcoreapp3.1\HW_auto_library.AssemblyInfo.cs
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\obj\Debug\netcoreapp3.1\HW_auto_library.csproj.CoreCompileInputs.cache
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\obj\Debug\netcoreapp3.1\HW_auto_library.dll
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\obj\Debug\netcoreapp3.1\HW_auto_library.pdb
+C:\Users\mcsymiv\Desktop\git\qa_library\qa_auto_library\HW_auto_library\obj\Debug\netcoreapp3.1\HW_auto_library.genruntimeconfig.cache
